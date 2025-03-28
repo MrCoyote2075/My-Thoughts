@@ -1,18 +1,36 @@
-#Future Project Thoughts,
+#Future Project Thoughts, @CopyRights With Dhanush.N 23P112 CS 
     
     @ KCE Placement (Application)
         
         - Why You Need This..? :    
-                (i) You Can Access Your Placement Details and Works Anywere You Want 
-                    i.e, Platform Free Accessing By Just Remembering Two Things [UserName, Password].
+                (i) To Access Datas - You Can Access Your Placement Details and Works Anywere You Want 
+                                      i.e, Platform Free Accessing By Just Remembering Two Things [UserName, Password].
 
-                (ii) Can Get Placement Detailes Of Yours,
-                     For Examples - Resume,
-                                    Social & Technical Platform Profiles (Linkedin, Leetcode, GitHub, British Council, CodeChef, GFG, etc..),
-                                    Problems Solved Counting in Coding Platforms Like (Leetcode,GFG,Code Forces, CodeChef ,CSES, etc),
-                                    Problems Skills in Categories Like (Linked List, Graph, Dynamic Programming, etc ),
-                                    Project Room - To Manage Projects Done,
-                                    
-                (iii)                                  
+                (ii) To View Informations - Can View Placement Details Of Student,
+                                            For Examples -  Resume,
+                                                            Social & Technical Platform Profiles (Linkedin, Leetcode, GitHub, British Council, CodeChef, GFG, etc..),
+                                                            Problems Solved Counting in Coding Platforms Like (Leetcode,GFG,Code Forces, CodeChef ,CSES, etc),
+                                                            Problems Skills in Categories Like (Linked List, Graph, Dynamic Programming, etc ),
+                                                            Project Room - To Manage Projects Done,
 
-        - Goal : To Develope A Single Application to Manage your Complete Placement Life in the College.
+                (iii) Schedules & Reminders - can set Schedules for Upcoming Class,
+                                            - can Set Meeting Reminders With Included Meeting Details.
+
+                (iv) Trainers(College) - To Share The Notes , Gives A feature To share Batch Wise Or Through Selection....
+
+
+                (v) Placement Handelers(HOD) : Provides Data Of Each Student, Like (Personal Data, Mail, Contact no., Whatsapp No.)
+                                            
+
+                (v) News - To Share Current Technology News And Corporate News.
+                         - To Share Important Informations About Placements, Drives,
+
+                a
+
+                (vi) Tests - Test For Aptitude & Other Problem Solveing Test Based,
+                             Tests for Placement Trainings,
+                             Karpagam Freshers Hiring Tests, etc...
+
+
+
+        - Goal : To Develope A Single Application to Manage Complete Placement Activities Throughout The College Life.
