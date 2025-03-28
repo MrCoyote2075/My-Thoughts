@@ -11,7 +11,7 @@
                                                             Social & Technical Platform Profiles (Linkedin, Leetcode, GitHub, British Council, CodeChef, GFG, etc..),
                                                             Problems Solved Counting in Coding Platforms Like (Leetcode,GFG,Code Forces, CodeChef ,CSES, etc),
                                                             Problems Skills in Categories Like (Linked List, Graph, Dynamic Programming, etc ),
-                                                            Project Room - To Manage Projects Done,
+                                                            Project Room - To Showcase Projects Done and Status of the upcomming Projects,
 
                 (iii) Schedules & Reminders - can set Schedules for Upcoming Class,
                                             - can Set Meeting Reminders With Included Meeting Details.
