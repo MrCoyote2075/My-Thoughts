@@ -35,7 +35,7 @@
 
 
 
-        - Goal : To Develope A Single Application to Manage Complete Placement Activities Throughout The College Life.
+        - Goal : To Develope A Single Application to Manage Complete Placement Activities Throughout The College Life of a Student .
 
 
 
