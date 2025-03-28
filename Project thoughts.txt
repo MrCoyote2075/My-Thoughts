@@ -1,0 +1,18 @@
+#Future Project Thoughts,
+    
+    @ KCE Placement (Application)
+        
+        - Why You Need This..? :    
+                (i) You Can Access Your Placement Details and Works Anywere You Want 
+                    i.e, Platform Free Accessing By Just Remembering Two Things [UserName, Password].
+
+                (ii) Can Get Placement Detailes Of Yours,
+                     For Examples - Resume,
+                                    Social & Technical Platform Profiles (Linkedin, Leetcode, GitHub, British Council, CodeChef, GFG, etc..),
+                                    Problems Solved Counting in Coding Platforms Like (Leetcode,GFG,Code Forces, CodeChef ,CSES, etc),
+                                    Problems Skills in Categories Like (Linked List, Graph, Dynamic Programming, etc ),
+                                    Project Room - To Manage Projects Done,
+                                    
+                (iii)                                  
+
+        - Goal : To Develope A Single Application to Manage your Complete Placement Life in the College.
