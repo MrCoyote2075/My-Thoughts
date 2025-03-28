@@ -13,13 +13,16 @@
                                                             Problems Skills in Categories Like (Linked List, Graph, Dynamic Programming, etc ),
                                                             Project Room - To Showcase Projects Done and Status of the upcomming Projects,
 
+
                 (iii) Schedules & Reminders - can set Schedules for Upcoming Class,
                                             - can Set Meeting Reminders With Included Meeting Details.
+
 
                 (iv) Trainers(College) - To Share The Notes , Gives A feature To share Batch Wise Or Through Selection....
 
 
-                (v) Placement Handelers(HOD) : Provides Data Of Each Student, Like (Personal Data, Mail, Contact no., Whatsapp No.)
+                (v) Placement Handelers(HOD)   - Provides Data List Of Placement Students and Also Each Students Informations Like (Personal Data, Mail, Contact no., Whatsapp No.)
+                                               - Provides Filters of Student List.
                                             
 
                 (v) News - To Share Current Technology News And Corporate News.
@@ -33,3 +36,15 @@
 
 
         - Goal : To Develope A Single Application to Manage Complete Placement Activities Throughout The College Life.
+
+
+
+                /* Need Get More Details About Any Other Problems In Placements,  From Senior Students , Trainers And Placement HOD */
+                
+                /* Give Your Thoughts and Comments as Github Issues */
+
+
+
+
+
+
