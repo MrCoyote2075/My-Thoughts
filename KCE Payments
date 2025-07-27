@@ -1,0 +1,14 @@
+# KCE Payments:
+  Highlight: RISE - COLLECT - CLOSE
+
+  Situation: on Amount Collecting From Multiple Persons and Tracking it, Like (Industrial Visit, Fund Rise for Health, Fund Rise for Clubs, Induvidual Person Rise)
+  
+  Security: Only Can Accessed By Persons who is Part of the Community (Like KCE Community)
+
+  Features: 
+    * Tracking Systems, Controlled And Customised Displayed Detiles (i.e, Display Necessary Details to the payor),
+    * Can Enter the Rised Fund Code No.. to View the Details,        
+
+  View: 
+    Payor :- can only see the public (Fund Rise), or If Any specific dept/Class/Section/year
+    Collector :- Can Design/Customise the Rise Details, can set Limit, can View The Info of the Payor, Can Set the publishing detail (Public, Private, Perticular (Dept, Year, Class, Sec)) 
